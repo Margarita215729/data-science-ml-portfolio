@@ -4,7 +4,7 @@
 
 This repository showcases a comprehensive data science and machine learning portfolio featuring 5 practical projects covering various ML techniques, data analysis, and visualization methods. Each project demonstrates different aspects of the data science workflow, from data collection and preprocessing to model training and evaluation.
 
-## 🚀 Projects Overview
+## Projects Overview
 
 ### 1.  World Population Analysis & Visualization
 **File:** `practice_1.py`
@@ -28,7 +28,7 @@ This repository showcases a comprehensive data science and machine learning port
   - Model comparison and evaluation
   - Robust scaling for feature normalization
 
-### 3. 🌤️ Weather Prediction with XGBoost & Clustering
+### 3.  Weather Prediction with XGBoost & Clustering
 **File:** `practice_3.py`
 - **Dataset:** Daily Climate Time Series Data
 - **Techniques:** Regression, Clustering, Feature Engineering
@@ -39,7 +39,7 @@ This repository showcases a comprehensive data science and machine learning port
   - Advanced ensemble methods (XGBoost)
   - Feature importance analysis
 
-### 4. 🏠 Estate Price Prediction
+### 4.  Estate Price Prediction
 **File:** `practice_4.py`
 - **Dataset:** House Sales Prediction Dataset
 - **Techniques:** Multiple Regression Types, Hyperparameter Tuning
@@ -61,7 +61,7 @@ This repository showcases a comprehensive data science and machine learning port
   - Customer behavior analysis
   - Parallel coordinates visualization
 
-## 🛠️ Technical Stack
+##  Technical Stack
 
 ### Languages & Libraries
 - **Python 3.8+**
@@ -128,4 +128,6 @@ python practice_5.py
 ## 📞 Contact
 
 **Margarita Makeeva**
+- Linkedin: [Margarita Makeeva](https://www.linkedin.com/in/margarita-makeeva-b48bb8277)
 - GitHub: [@Margarita215729](https://github.com/Margarita215729)
+- Email: Makeeva01.m@gmail.com
