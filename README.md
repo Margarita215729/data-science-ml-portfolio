@@ -4,6 +4,31 @@
 
 This repository showcases a comprehensive data science and machine learning portfolio featuring 5 practical projects covering various ML techniques, data analysis, and visualization methods. Each project demonstrates different aspects of the data science workflow, from data collection and preprocessing to model training and evaluation.
 
+## 📊 Data Visualizations Gallery
+
+### 🌍 Population Analysis Results
+<div align="center">
+  <img src="plots/population_dynamics.png" alt="Population Dynamics" width="45%" />
+  <img src="plots/region_population_pie.png" alt="Regional Distribution" width="45%" />
+</div>
+
+### 🧠 Machine Learning Insights
+<div align="center">
+  <img src="plots/correlation_heatmap.png" alt="Feature Correlations" width="30%" />
+  <img src="plots/scatter_plot.png" alt="Data Relationships" width="30%" />
+  <img src="plots/boxplot.png" alt="Statistical Analysis" width="30%" />
+</div>
+
+### 📈 Advanced Analytics
+<div align="center">
+  <img src="plots/pairplot.png" alt="Pairwise Relationships" width="48%" />
+  <img src="plots/violinplot_0.png" alt="Distribution Analysis" width="48%" />
+</div>
+
+*Professional data visualizations generated from real-world datasets*
+
+[![View All Results](https://img.shields.io/badge/View%20All%20Results-📊%20Gallery-green?style=for-the-badge)](https://github.com/Margarita215729/data-science-ml-portfolio/tree/main/plots)
+
 ## Projects Overview
 
 ### 1.  World Population Analysis & Visualization
